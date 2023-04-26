@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20ea183d_002D5895_002D44bf_002D90e9_002Dfd839622d8d0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Prepare" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::C3F48848-9ECC-47FD-8D4D-8ED179AB6FE9::net6.0::StrykerTest.Tests.Test1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cc3c5f78_002D84f2_002D4af7_002D869c_002Dbe4950deb35d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;And&gt;
+      &lt;ProjectFolder&gt;6554EB82-6F05-4D3A-B603-13709EDC808E/d:Cases&lt;/ProjectFolder&gt;
+      &lt;Project Location="/Users/kamil/Desktop/ITSG/Repositories/masterlease-crm/src/Backend/Modules/Customers/Tests/Masterlease.CRM.Customers.IntegrationTests" Presentation="&amp;lt;Backend&amp;gt;\&amp;lt;Modules&amp;gt;\&amp;lt;Customers&amp;gt;\&amp;lt;Tests&amp;gt;\&amp;lt;Masterlease.CRM.Customers.IntegrationTests&amp;gt;" /&gt;
+    &lt;/And&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::6554EB82-6F05-4D3A-B603-13709EDC808E::net6.0::Masterlease.CRM.Customers.IntegrationTests.TestCases.Cases.MSL_CAS002.CAS002.CAS002_Test&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::6554EB82-6F05-4D3A-B603-13709EDC808E::net6.0::Masterlease.CRM.Customers.IntegrationTests.TestCases.Cases.MSL_CAS001.CAS001.CAS001_Test&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::7ED4F5EE-925D-48AB-85C8-92416FD9010B::net6.0::Masterlease.CRM.SUTCreator.TestCases._001_AllData.SutCreator&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
